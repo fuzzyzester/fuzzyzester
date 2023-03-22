@@ -1,14 +1,14 @@
 
 # Rianna Aalto
-### I'm shifting career & currently a full-time Data Science student -- mastering the art of making data into an interesting and meaningful piece!
+### I'm shifting career & currently a full-time Data Science student -- want to master the art of making data into an interesting and meaningful piece!
 
-⤷ Outside class, I'm working on small projects with R, Python, SQL and cool other languages to test what I've learned.
+⤷ Working on small projects that I am very interested like R, Python, SQL and cool other languages to bild my portfolio.
 
  <a aligh="left" href="https://www.linkedin.com/in/https://www.linkedin.com/in/riannaaalto/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
 ⚐ Based in Based in Uppsala, Sweden
 
-ϟ Currently Discovering challenging yet cool stuff about Data Science
+ϟ Currently discovering som challenging yet cool stuff about Data Science
 
 
 
