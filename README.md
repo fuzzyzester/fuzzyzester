@@ -8,7 +8,7 @@
 
 ⚐ Based in Based in Uppsala, Sweden
 
-ϟ Currently discovering som challenging yet cool stuff about Data Science
+ϟ Currently discovering some challenging yet cool stuff about Data Science
 
 
 
