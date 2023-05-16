@@ -10,19 +10,9 @@
 
 * Love harnessing data's power for positive change. Currently working on cool projects in R, Python, SQL, and more to build an impressive portfolio. Join me on this cosmic data-driven journey!
 
-Hello World!
-I'm an enthusiastic explorer of the captivating worlds of Data Science and sustainability. 🚀🌱
-Currently studying Data Science at EC Utbildning, uncovering hidden insights and making exciting discoveries with data
 
-Strong analytical skill set and a result-driven personality
 
-Studies involve in the areas of Business Analytics, Statistics, SQL & Database, R and Python Programming, Data Analysis & Visualization (Power BI & Tableau), Big Data, Business Intelligence, Data Warehousing, Machine Learning, and Data Storytelling
-
-Background in master data management, business process improvement, and international customer service Involved in a global migration project, implementing ERP systems within SAP and Oracle
-
-Driven by a passion for harnessing the power of data to drive positive change and contribute to a more sustainable future
-
-⤷ Working on small projects that I am very interested like R, Python, SQL and cool other languages to bild my portfolio.
+⤷ Working on small projects that I am very interested of like R, Python, SQL and cool other languages to bild my portfolio.
  
 
 
