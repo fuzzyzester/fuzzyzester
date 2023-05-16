@@ -19,9 +19,9 @@ Involved in a global migration project, implementing ERP systems within SAP and 
 
  <a aligh="left" href="https://www.linkedin.com/in/https://www.linkedin.com/in/riannaaalto/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
-⚐ Based in Based in Uppsala, Sweden
+⚐ Based in Stockholm, Sweden
 
-ϟ Currently discovering some challenging yet cool stuff about Data Science
+ϟ discovering some challenging yet cool stuff about anything interesting
 
 
 
