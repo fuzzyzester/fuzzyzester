@@ -12,7 +12,7 @@
 
 
 
-⤷ Working on small projects that I am very interested of like R, Python, SQL and cool other languages to bild my portfolio.
+⤷ Working on small projects that I am very interested of like R, Python, SQL, machine Learning, Power BI and cool other languages to build my portfolio.
  
 
 
