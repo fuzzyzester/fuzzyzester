@@ -1,8 +1,7 @@
 
 # Rianna Aalto
-### Welcome to my Github profile! I'm an enthusiastic explorer of the captivating worlds of Data Science and sustainability. 🚀🌱
-
-Data Science enthusiast with a passion for sustainability 🚀🌱
+### Welcome to my Github profile! 
+####  I'm an enthusiastic explorer of the captivating worlds of Data Science and sustainability. 🚀🌱
 
  *  Currently studying Data Science at EC Utbildning, uncovering hidden insights and making exciting discoveries with data
 
