@@ -1,6 +1,6 @@
 
 # Rianna Aalto
-### H i  t h e r e ! 
+### Hi  t h e r e! 
 ####  I'm an enthusiastic explorer of the captivating worlds of Data Science and sustainability. 🚀🌱
 
  *  Currently studying Data Science at EC Utbildning, uncovering hidden insights and making exciting discoveries with data
