@@ -2,13 +2,19 @@
 # Rianna Aalto
 ### Welcome to my Github profile! I'm an enthusiastic explorer of the captivating worlds of Data Science and sustainability. 🚀🌱
 
-With a strong analytical skill set and a result-driven personality, I'm currently studying Data Science at EC Utbildning, where I'm passionate about uncovering hidden insights and making exciting discoveries with data. I'm also deeply committed to driving sustainability initiatives.
+Data Science enthusiast with a passion for sustainability 🚀🌱
 
-In my program, I'm gaining expertise in Business Analytics, Statistics, SQL & Database, R and Python Programming, Data Analysis & Visualization (Power BI & Tableau), Big Data, Business Intelligence, Data Warehousing, Machine Learning, and Data Storytelling.
+ *  Currently studying Data Science at EC Utbildning, uncovering hidden insights and making exciting discoveries with data
 
-Furthermore, I bring a background in master data management, business process improvement, and international customer service. I've had the privilege of being involved in a global migration project, implementing ERP systems within SAP and Oracle.
 
-Beyond my love for data, I'm driven by a passion for sustainability. I believe in harnessing the power of data to drive positive change and contribute to a more sustainable future. Let's connect and explore the endless possibilities of data-driven sustainability together! Join me on this exciting journey as we unlock the power of data and work towards a greener, more sustainable world.!
+*  Strong analytical skill set and a result-driven personality
+
+*  Expertise in Business Analytics, Statistics, SQL & Database, R and Python Programming, Data Analysis & Visualization (Power BI & Tableau), Big Data, Business Intelligence, Data Warehousing, Machine Learning, and Data Storytelling
+
+*  Background in master data management, business process improvement, and international customer service
+Involved in a global migration project, implementing ERP systems within SAP and Oracle
+
+*  Driven by a passion for harnessing the power of data to drive positive change and contribute to a more sustainable future
 
 ⤷ Working on small projects that I am very interested like R, Python, SQL and cool other languages to bild my portfolio.
 
