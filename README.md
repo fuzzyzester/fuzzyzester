@@ -8,7 +8,7 @@
 
 *  Strong analytical skill set and a result-driven personality
 
-*  Expertise in Business Analytics, Statistics, SQL & Database, R and Python Programming, Data Analysis & Visualization (Power BI & Tableau), Big Data, Business Intelligence, Data Warehousing, Machine Learning, and Data Storytelling
+*  Studies involve in the areas of Business Analytics, Statistics, SQL & Database, R and Python Programming, Data Analysis & Visualization (Power BI & Tableau), Big Data, Business Intelligence, Data Warehousing, Machine Learning, and Data Storytelling
 
 *  Background in master data management, business process improvement, and international customer service
 Involved in a global migration project, implementing ERP systems within SAP and Oracle
