@@ -4,7 +4,7 @@
 ####  I'm an enthusiastic explorer of the captivating worlds of Data Science and sustainability. 🚀🌱
 
  
-*  Passionate Data Science student exploring the captivating worlds of data and sustainability. 🚀🌱
+*  Passionate Data Science student exploring the captivating worlds of data and sustainability.
 
 * Studying at EC Utbildning, uncovering hidden insights and making exciting discoveries. Strong analytical skills, result-driven, and experienced in master data management and business process improvement.
 
