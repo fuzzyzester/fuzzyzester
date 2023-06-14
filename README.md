@@ -6,7 +6,7 @@
  
 *  Passionate Data Science student exploring the worlds of data and sustainability.
 
-* Studying at EC Utbildning, uncovering hidden insights and making exciting discoveries. Strong analytical skills, result-driven, and experienced in master data management and business process improvement.
+* Currently studying at EC Utbildning, uncovering hidden insights and making exciting discoveries. 
 
 * Love harnessing data's power for positive change. Currently working on small projects in R, Python, SQL, machine Learning, Power BI, data visualization and other languages to build my portfolio. Join me on this journey!
 
