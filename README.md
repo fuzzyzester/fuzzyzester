@@ -4,15 +4,13 @@
 ####  I'm an enthusiastic explorer of the captivating worlds of Data Science and sustainability. 🚀🌱
 
  
-*  Passionate Data Science student exploring the captivating worlds of data and sustainability.
+*  Passionate Data Science student exploring the worlds of data and sustainability.
 
 * Studying at EC Utbildning, uncovering hidden insights and making exciting discoveries. Strong analytical skills, result-driven, and experienced in master data management and business process improvement.
 
-* Love harnessing data's power for positive change. Currently working on cool projects in R, Python, SQL, and more to build an impressive portfolio. Join me on this cosmic data-driven journey!
+* Love harnessing data's power for positive change. Currently working on cool projects in R, Python, SQL, machine Learning, Power BI, data visualization and cool other languages to build my portfolio. Join me on this journey!
 
 
-
-⤷ Working on small projects that I am very interested of like R, Python, SQL, machine Learning, Power BI and cool other languages to build my portfolio.
  
 
 
