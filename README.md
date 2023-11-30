@@ -1,5 +1,5 @@
 
-# Rianna Aalto
+# Rianna
 ### Hello  World! 
 ####  I'm an enthusiastic explorer of Data Science and sustainability. 🚀🌱
 
