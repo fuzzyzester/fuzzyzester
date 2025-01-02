@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I’m Rianna Aalto, a passionate data enthusiast. My expertise lies in analyzing data to extract meaningful insights and creating robust, data-driven solutions. I am currently pursuing my Data Engineering education at Nackademin while building my professional portfolio.
+Hi, I’m Rianna, a passionate data enthusiast. My expertise lies in analyzing data to extract meaningful insights and creating robust, data-driven solutions. I am currently pursuing my Data Engineering education at Nackademin while building my professional portfolio.
 
 ### Skills and Expertise
 Data Analysis: Python, Pandas, NumPy, Matplotlib, SQL
