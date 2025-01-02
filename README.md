@@ -7,11 +7,11 @@ Hi, I’m Rianna, a passionate data enthusiast. My expertise lies in analyzing d
 ### Skills and Expertise
 Data Analysis: Python, Pandas, NumPy, Matplotlib, SQL
 
-Machine Learning: Scikit-learn, Neural Networks, SMOTE, Gradient Boosting 
+Machine Learning: Scikit-learn, Neural Networks, SMOTE, Gradient Boosting and more
 
 Data Visualization: Power BI
 
-Database Management: SQL Server, T-SQL
+Database Management: SQL Server, T-SQL 
 
 ### How to Navigate My Portfolio
 Visit my repositories to explore individual projects.
