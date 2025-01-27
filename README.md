@@ -2,16 +2,17 @@
 
 ## About Me
 
-Hi, I’m Rianna, a passionate data enthusiast. My expertise lies in analyzing data to extract meaningful insights and creating robust, data-driven solutions. I am currently pursuing my Data Engineering education at Nackademin while building my professional portfolio.
+Hi, I’m Rianna, a passionate data professional. My expertise lies in analyzing data to extract meaningful insights and creating robust, data-driven solutions. I am currently pursuing my Data Engineering education at Nackademin while building my professional portfolio.
 
 ### Skills and Expertise
 Data Analysis: Python, Pandas, NumPy, Matplotlib, SQL
 
 Machine Learning: Scikit-learn, Neural Networks, SMOTE, Gradient Boosting and more
 
-Data Visualization: Power BI
+Data Visualization: Power BI, Streamlit, FastAPI
 
-Database Management: SQL Server, T-SQL 
+Database Management: SQL Server, T-SQL , ETL, Azure, Databricks
+
 
 ### How to Navigate My Portfolio
 Visit my repositories to explore individual projects.
