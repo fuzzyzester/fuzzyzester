@@ -39,7 +39,7 @@ SQL Server · T-SQL · ETL · Azure · Databricks
 | [Credit Card Fraud Detection](https://github.com/fuzzyzester/creditcard-fraud-detection) | End-to-end ML pipeline with FastAPI and Power BI for fraud detection |
 | [Emotion Detection CNN](https://github.com/fuzzyzester/Emotion_Detection_CNN) | Deep learning project for emotion recognition using CNN |
 | [Prenatal Depression Prediction](https://github.com/fuzzyzester/machine-learning-predict-prenatal-depression) | Machine learning model to identify risk of prenatal depression |
-| [Power BI Visualization Project](https://github.com/fuzzyzester/powerbi_visualization_project) | Dashboard visualizations and KPI reporting in Power BI |
+| [Power BI Visualization Project](https://github.com/fuzzyzester/Freddys_businessintelligence_solution) | Dashboard visualizations and KPI reporting in Power BI |
 | [Credit Risk Predictor](https://github.com/fuzzyzester/credit-risk-predictor) | Binary classification model to assess loan default risk |
 | [Library App – Python + FastAPI](https://github.com/fuzzyzester/library-app-python-fastAPI) | Backend web app for managing book records with FastAPI and SQLite |
 
