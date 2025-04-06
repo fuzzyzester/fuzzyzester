@@ -1,33 +1,63 @@
 # Welcome to My GitHub Portfolio
 
-## About Me
+# Hi, I'm Rianna 👋  
+**Aspiring Data Engineer | Data Science Enthusiast | Power BI Creator**
 
-Hi, I’m Rianna, a passionate data professional. My expertise lies in analyzing data to extract meaningful insights and creating robust, data-driven solutions. I am currently pursuing my Data Engineering education at Nackademin while building my professional portfolio.
+I'm a passionate data professional focused on extracting actionable insights and building robust, data-driven solutions. I'm currently pursuing my **Data Engineering education at Nackademin** while actively building my portfolio with end-to-end projects that combine analytics, machine learning, deployment, and business intelligence.
 
-### Skills and Expertise
-Data Analysis: Python, Pandas, NumPy, Matplotlib, SQL
+---
 
-Machine Learning: Scikit-learn, Neural Networks, SMOTE, Gradient Boosting and more
+## 🚀 Skills and Expertise
 
-Data Visualization: Power BI, Streamlit, FastAPI
+**Data Analysis**  
+Python · Pandas · NumPy · Matplotlib · SQL
 
-Database Management: SQL Server, T-SQL , ETL, Azure, Databricks
+**Machine Learning & Modeling**  
+Scikit-learn · Neural Networks · Gradient Boosting · SMOTE · Model Evaluation
+
+**Data Visualization & App Building**  
+Power BI · Streamlit · FastAPI
+
+**Database Management & Cloud Tools**  
+SQL Server · T-SQL · ETL · Azure · Databricks
+
+---
+
+## 🗂️ How to Navigate My Portfolio
+
+- Visit the repositories below to explore individual projects
+- Each project includes detailed documentation in the `README.md` file
+- Most projects are end-to-end and can be cloned to run locally
+- Several include model deployment (FastAPI) and dashboard integration (Power BI)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [Credit Card Fraud Detection](https://github.com/fuzzyzester/creditcard-fraud-detection) | End-to-end ML pipeline with FastAPI and Power BI for fraud detection |
+| [Emotion Detection CNN](https://github.com/fuzzyzester/Emotion_Detection_CNN) | Deep learning project for emotion recognition using CNN |
+| [Prenatal Depression Prediction](https://github.com/fuzzyzester/machine-learning-predict-prenatal-depression) | Machine learning model to identify risk of prenatal depression |
+| [Power BI Visualization Project](https://github.com/fuzzyzester/powerbi_visualization_project) | Dashboard visualizations and KPI reporting in Power BI |
+| [Credit Risk Predictor](https://github.com/fuzzyzester/credit-risk-predictor) | Binary classification model to assess loan default risk |
+| [Library App – Python + FastAPI](https://github.com/fuzzyzester/library-app-python-fastAPI) | Backend web app for managing book records with FastAPI and SQLite |
+
+---
+
+## 🎯 Future Plans
+
+- Launch a personal website to host and centralize my portfolio
+- Continue exploring advanced ML techniques and real-time data solutions
+- Collaborate with professionals in **data engineering and data science**
+- Work on more public datasets and contribute to open-source projects
+
+---
+
+📬 **Let’s connect**  
+If you're interested in collaborating, offering feedback, or just chatting data — feel free to reach out!
 
 
-### How to Navigate My Portfolio
-Visit my repositories to explore individual projects.
-
-Each project includes detailed documentation in the README files.
-
-Feel free to clone repositories and run the code to explore further.
-
-
-### Future Plans
-Build a personal website to centralize my portfolio.
-
-Continue exploring advanced machine learning techniques.
-
-Collaborate with professionals in data engineering and science.
 
 
 ### Contact Me
