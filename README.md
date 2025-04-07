@@ -1,6 +1,6 @@
 # Welcome to My GitHub Portfolio
 
-# Hi, I'm Rianna 👋  
+# Hi, I'm Rianna   
 **Aspiring Data Engineer | Data Science Enthusiast | Power BI Creator**
 
 I'm a passionate data professional focused on extracting actionable insights and building robust, data-driven solutions. I'm currently pursuing my **Data Engineering degree** while actively building my portfolio with end-to-end projects that combine analytics, machine learning, deployment and business intelligence.
@@ -47,9 +47,8 @@ SQL Server · T-SQL · ETL · Azure · Databricks
 
 ---
 
-## 🎯 Future Plans
+##  Future Plans
 
-- Launch a personal website to host and centralize my portfolio
 - Continue exploring advanced ML techniques and real-time data solutions
 - Collaborate with professionals in **data engineering and data science**
 - Work on more public datasets and contribute to open-source projects
