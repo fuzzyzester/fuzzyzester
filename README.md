@@ -39,7 +39,8 @@ SQL Server · T-SQL · ETL · Azure · Databricks
 | [Credit Card Fraud Detection](https://github.com/fuzzyzester/creditcard-fraud-detection) | End-to-end ML pipeline with FastAPI and Power BI for fraud detection |
 | [Emotion Detection CNN](https://github.com/fuzzyzester/Emotion_Detection_CNN) | Deep learning project for emotion recognition using CNN |
 | [Prenatal Depression Prediction](https://github.com/fuzzyzester/machine-learning-predict-prenatal-depression) | Machine learning model to identify risk of prenatal depression |
-| [Power BI Visualization Project](https://github.com/fuzzyzester/Freddys_businessintelligence_solution) | Dashboard visualizations and KPI reporting in Power BI |
+| [Freddy's BI-Cycle Power BI Dashboard](https://github.com/fuzzyzester/Freddys_businessintelligence_solution) | A comprehensive Power BI solution with dashboards for Sales, Inventory, HR, Finance, and Sales Over Time. Features full ETL pipeline, star schema modeling, and advanced DAX calculations. |
+| [Himalaya Kött & Video Power BI Portfolio](https://github.com/fuzzyzester/HKV_BusinessIntelligence_solution) | Business dashboard portfolio for a grocery boutique, showcasing sales performance, employee overview, product campaigns, and financials using Power BI with star schema modeling and interactive visuals. |
 | [Credit Risk Predictor](https://github.com/fuzzyzester/credit-risk-predictor) | Binary classification model to assess loan default risk |
 | [Library App – Python + FastAPI](https://github.com/fuzzyzester/library-app-python-fastAPI) | Backend web app for managing book records with FastAPI and SQLite |
 
@@ -62,9 +63,6 @@ If you're interested in collaborating, offering feedback, or just chatting data 
 
 ### Contact Me
 For collaborations or inquiries:
-
 Email: rianna.aalto@gmail.com
-
 LinkedIn: Rianna Aalto (https://www.linkedin.com/in/riannaaalto/)
-
 GitHub: fuzzyzester (https://github.com/fuzzyzester)
