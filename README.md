@@ -63,6 +63,9 @@ If you're interested in collaborating, offering feedback, or just chatting data 
 
 ### Contact Me
 For collaborations or inquiries:
+
 Email: rianna.aalto@gmail.com
+
 LinkedIn: Rianna Aalto (https://www.linkedin.com/in/riannaaalto/)
+
 GitHub: fuzzyzester (https://github.com/fuzzyzester)
