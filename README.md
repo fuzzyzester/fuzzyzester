@@ -3,7 +3,7 @@
 # Hi, I'm Rianna 👋  
 **Aspiring Data Engineer | Data Science Enthusiast | Power BI Creator**
 
-I'm a passionate data professional focused on extracting actionable insights and building robust, data-driven solutions. I'm currently pursuing my **Data Engineering education at Nackademin** while actively building my portfolio with end-to-end projects that combine analytics, machine learning, deployment, and business intelligence.
+I'm a passionate data professional focused on extracting actionable insights and building robust, data-driven solutions. I'm currently pursuing my **Data Engineering education** while actively building my portfolio with end-to-end projects that combine analytics, machine learning, deployment, and business intelligence.
 
 ---
 
