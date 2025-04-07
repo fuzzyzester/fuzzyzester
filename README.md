@@ -37,6 +37,7 @@ SQL Server · T-SQL · ETL · Azure · Databricks
 | Project | Description |
 |--------|-------------|
 | [Credit Card Fraud Detection](https://github.com/fuzzyzester/creditcard-fraud-detection) | End-to-end ML pipeline with FastAPI and Power BI for fraud detection |
+| [SQL User Authentication System](https://github.com/fuzzyzester/SQL-usertAuthenticationSystem) | A secure, role-based login system built in T-SQL with user registration, password recovery, lockout policy, and login reporting. Includes stored procedures, salted hashing, IP tracking, and optimization. |
 | [Himalaya Kött & Video Power BI Portfolio](https://github.com/fuzzyzester/HKV_BusinessIntelligence_solution) | Business dashboard portfolio for a grocery boutique, showcasing sales performance, employee overview, product campaigns, and financials using Power BI with star schema modeling and interactive visuals. |
 | [Freddy's BI-Cycle Power BI Dashboard](https://github.com/fuzzyzester/Freddys_businessintelligence_solution) | A comprehensive Power BI solution with dashboards for Sales, Inventory, HR, Finance, and Sales Over Time. Features full ETL pipeline, star schema modeling, and advanced DAX calculations. |
 | [Emotion Detection CNN](https://github.com/fuzzyzester/Emotion_Detection_CNN) | Deep learning project for emotion recognition using CNN |
