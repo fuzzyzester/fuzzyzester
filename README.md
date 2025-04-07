@@ -7,13 +7,13 @@ I'm a passionate data professional focused on extracting actionable insights and
 
 ---
 
-## 🚀 Skills and Expertise
+##  Skills and Expertise
 
 **Data Analysis**  
 Python · Pandas · NumPy · Matplotlib · SQL
 
 **Machine Learning & Modeling**  
-Scikit-learn · Neural Networks · Gradient Boosting · SMOTE · Model Evaluation
+Scikit-learn · Neural Networks · SMOTE · Model Evaluation
 
 **Data Visualization & App Building**  
 Power BI · Streamlit · FastAPI
@@ -23,7 +23,7 @@ SQL Server · T-SQL · ETL · Azure · Databricks
 
 ---
 
-## 🗂️ How to Navigate My Portfolio
+##  How to Navigate My Portfolio
 
 - Visit the repositories below to explore individual projects
 - Each project includes documentation in the `README.md` file
